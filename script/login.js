@@ -16,6 +16,6 @@ document.getElementById('login-btn').addEventListener('click',
   }
   }
   else{
-    alert('your account number in wrong')
+    alert('your account number is wrong')
   }
 })
